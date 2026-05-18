@@ -32,10 +32,10 @@ dependencies = [
 ]
 
 [project.urls]
-Homepage = "https://github.com/alan-deronyan/dwim/tree/main/mdld-py"
-Repository = "https://github.com/alan-deronyan/dwim"
-Issues = "https://github.com/alan-deronyan/dwim/issues"
-Changelog = "https://github.com/alan-deronyan/dwim/blob/main/mdld-py/CHANGELOG.md"
+Homepage = "https://github.com/alan8373/mdld-py"
+Repository = "https://github.com/alan8373/mdld-py"
+Issues = "https://github.com/alan8373/mdld-py/issues"
+Changelog = "https://github.com/alan8373/mdld-py/blob/main/CHANGELOG.md"
 
 [tool.setuptools.packages.find]
 where = ["."]
