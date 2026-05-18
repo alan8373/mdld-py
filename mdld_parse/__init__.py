@@ -21,4 +21,4 @@ __all__ = [
     'quad_index_key', 'quad_to_key_for_origin', 'create_literal',
 ]
 
-__version__ = '0.1.0'
+__version__ = '0.1.1'

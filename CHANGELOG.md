@@ -6,6 +6,10 @@ implementation](https://github.com/davay42/mdld-parse) is the companion
 source for the syntax. The Python package uses its own version line,
 starting at **0.1.0**.
 
+## 0.1.1 — 2026-05-17
+
+- Updated maintainer email address. No code changes.
+
 ## 0.1.0 — 2026-05-16
 
 First PyPI release.
